@@ -2,6 +2,7 @@ from setuptools import setup
 
 REQUIRES = [
     'records',
+    'requests',
     'structlog',
     'allure-pytest'
 ]
